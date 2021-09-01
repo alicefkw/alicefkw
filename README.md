@@ -4,7 +4,7 @@ Legal que se interessou em vir aqui! Contarei um pouco sobre mim.
    e dois TCCs, isso previsto em dezembro/2023.
 
 👋 MINHA INFÂNCIA...
-       Desde que me conheço como pessoa lembro de mim na frente de computadores, fascinada com os diferentes mundos acessíveis com poucos cliques do mouse. Mesmo na escola,
+       Desde que me conheço como pessoa lembro de mim na frente de computadores, fascinada com os diferentes mundos acessíveis com alguns cliques do mouse. Mesmo na escola,
     em contato com os conhecimentos gerais e diversas imersões em áreas interessantes, eu sempre soube que o que eu gostaria de viver fazendo mesmo é justamente ficar no
     computador navegando utilizando os atalhos que eu fui aprendendo no teclado, como apagar tecla posterior com "delete", ctrl C e ctrl V, ir ao início da linha com "home"
     e ao final com "end", e quanto mais aprendia, mais animada eu ficava para mexer mais no computador utilizando os conhecimentos aprendidos. Eu só não sabia o que faria
