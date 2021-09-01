@@ -16,8 +16,7 @@ Legal que se interessou em vir aqui! Contarei um pouco sobre mim.
        insegurança sobre meu senso de design e realmente prefiro operar na lógica por trás da aplicação.
 
 🌱 ATUALMENTE APRENDENDO...
-       Comecei a estudar Kotlin recentemente com o objetivo de realizar um projeto que tenho na minha mente e talvez entrar neste mercado de trabalho. Também estou com andamento
-       em cursos de Bioinformática, Segurança da Informação e Pentest (por que não?), além das pesquisas sobre Unity.
+       Estou voltando meus estudos agora para front-end, banco de dados e análise de dados, um pouquinho de Kotlin.
        
 💞️ ESTOU PROCURANDO COLABORAR EM...
        Qualquer coisa que eu possa me encaixar que envolva TI! De verdade, gosto de desafios e aprendizados são muito bem-vindos sempre! Me esforço para poder dar um retorno mais
