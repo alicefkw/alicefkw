@@ -1,5 +1,5 @@
 Legal que se interessou em vir aqui! Contarei um pouco sobre mim.
-   Eu me chamo Alice Pinna, tenho 19 anos e atualmente estou no meu quarto semestre na Universidade de Taubaté (UNITAU) onde curso Análise e Desenvolvimento de Sistemas.
+   Eu me chamo Alice Pinna, tenho 20 anos e atualmente estou no meu quarto semestre na Universidade de Taubaté (UNITAU) onde curso Análise e Desenvolvimento de Sistemas.
    Me formo em dezembro/2022 e após isso farei o último ano de Sistemas de Informação (as duas turmas são juntas então dá para fazer isso), saindo então com dois diplomas
    e dois TCCs, isso previsto em dezembro/2023.
 
