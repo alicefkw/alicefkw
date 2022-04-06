@@ -16,7 +16,7 @@ Legal que se interessou em vir aqui! Contarei um pouco sobre mim.
        insegurança sobre meu senso de design e realmente prefiro operar na lógica por trás da aplicação.
 
 🌱 ATUALMENTE APRENDENDO...
-       Estou voltando meus estudos agora para front-end, banco de dados e análise de dados, um pouquinho de Kotlin.
+       Estou voltando meus estudos agora para Django, banco de dados, análise de dados, um pouquinho de Dart e Flutter.
        
 💞️ ESTOU PROCURANDO COLABORAR EM...
        Qualquer coisa que eu possa me encaixar que envolva TI! De verdade, gosto de desafios e aprendizados são muito bem-vindos sempre! Me esforço para poder dar um retorno o mais rápido o possível
