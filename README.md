@@ -1,26 +1,34 @@
-Legal que se interessou em vir aqui! Contarei um pouco sobre mim.
-   Eu me chamo Alice Pinna, tenho 20 anos e atualmente estou no meu quinto semestre na Universidade de Taubaté (UNITAU) onde curso Análise e Desenvolvimento de Sistemas.
-   Me formo em dezembro/2022 e após isso farei o último ano de Sistemas de Informação (as duas turmas são juntas então dá para fazer isso), saindo então com dois diplomas
-   e dois TCCs, isso previsto em dezembro/2023.
-
-👋 MINHA INFÂNCIA...
-       Desde que me conheço como pessoa lembro de mim na frente de computadores, fascinada com os diferentes mundos acessíveis com alguns cliques do mouse. Mesmo na escola,
-    em contato com os conhecimentos gerais e diversas imersões em áreas interessantes, eu sempre soube que o que eu gostaria de viver fazendo mesmo é justamente ficar no
-    computador navegando utilizando os atalhos que eu fui aprendendo no teclado, como apagar tecla posterior com "delete", ctrl C e ctrl V, ir ao início da linha com "home"
-    e ao final com "end", e quanto mais aprendia, mais animada eu ficava para mexer mais no computador utilizando os conhecimentos aprendidos. Eu só não sabia o que faria
-    no computador, com essas coisas. Demorei muitos anos, até o final do ensino médio, para descobrir a programação por conta própria e com isso criei um pensamento interno
-    de que as escolas deveriam ensinar pelo menos um nível básico de informática e programação.
-    
-👀 GOSTO DE...
-       Programação para jogos e back-end são as coisas que mais gostei de aprender e desenvolver, cheguei a estudar bem front-end e fazer projetos teste mas carrego um pouco de
-       insegurança sobre meu senso de design e realmente prefiro operar na lógica por trás da aplicação.
-
-🌱 ATUALMENTE APRENDENDO...
-       Estou voltando meus estudos agora para Django, banco de dados, análise de dados, um pouquinho de Dart e Flutter.
-       
-💞️ ESTOU PROCURANDO COLABORAR EM...
-       Qualquer coisa que eu possa me encaixar que envolva TI! De verdade, gosto de desafios e aprendizados são muito bem-vindos sempre! Me esforço para poder dar um retorno o mais rápido o possível
-       
-📫 VOCÊ PODE ME CONTACTAR ATRAVÉS DE...
-       Meu e-mail: alicefkw@outlook.com
-       Meu celular: +55 12 988811502
+         Oiii! Eu sou a Alice Pinna, tenho 20 anos e atualmente estou cursando meu último ano em Análise e Desenvolvimento de Sistemas.
+      Em 2019, logo no ano seguinte de eu me formar no ensino médio, fui cursar Sistemas de Informação no UNASP Campus Hortolândia, cidade bem 
+      longe da minha então lá morei no internato do campus durante esse ano. Ocorreram alguns problemas lá em relação a moradia bem quando 
+      terminei esse primeiro ano (felizmente passei só com notas boas) e tive de voltar para a minha cidade natal transferindo a faculdade, 
+      onde voltei desde o primeiro ano em outro curso, mas com a possibilidade de me formar em SI logo no ano seguinte da minha formatura em ADS.
+      
+         
+         Procuro ser bastante acessível, se você precisa de uma amiga ou uma parceira para estudos ou desenvolvimento,
+      sinta-se livre e com intimidade para conversar comigo por qualquer motivo, através do meu e-mail! ヾ(≧▽≦*)o
+                                            alicefkw@outlook.com
+      
+         Sempre gostei muito de ficar no computador e sempre soube que trabalharia com isso, mas demorei até o final do ensino médio para 
+      me aprofundar no mundo da computação e descobrir programação por conta própria (com isso criei um pensamento interno de que as escolas 
+      deveriam ensinar pelo menos um nível básico de informática e programação, estudei em boas escolas particulares e o máximo que cheguei a ver
+      de informática em escola foi o aplicativo paint, lá pelo quinto ano...)
+      
+         Meu começo foi obviamente aprendendo o básico de computação (tabela de bytes, conversão binária, tabela verdade, lógica de computação e
+      e lógica de programação, scratch, microbit, programação em blocos) e então fui para a linguagem C na qual fiquei por pouco mais de meio ano 
+      até ir pra Java, que aprendi e exercitei por pouco mais de um ano e me fez entender POO, ao mesmo tempo HTML e CSS (meu nível em Javascript 
+      infelizmente é bem baixo mas consigo me virar), depois tive a oportunidade de mexer com Unity e desenvolver em C# durante meio ano e desde 
+      então conheci o Python e fiquei fascinada, já faz um ano e meio que o aprendo e descubro cada vez mais coisas e com cada vez mais empolgação, 
+      me considero sim uma entusiasta de Python
+         Durante esse tempo, 
+      
+         *Dá uma olhada em uns projetos bobos meus feitos com programação em blocos de quando iniciei!
+                  https://scratch.mit.edu/projects/293822893/
+                  https://scratch.mit.edu/projects/294374952/
+                  https://scratch.mit.edu/projects/291907399/
+                  https://scratch.mit.edu/projects/297029136/
+      
+         Uso e abuso de atalhos no teclado para aumentar a produtividade! É bem automático e natural pra mim, por exemplo usar a tecla "del" para 
+     apagar o caractere posterior, "shift" para selecionar, o "ctrl" para navegar entre palavras, "home" e "end" para ir ao início e final da linha
+     respectivamente. Tenho um fascínio por atalhos e automatização de tarefas e 
+     
