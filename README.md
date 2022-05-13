@@ -5,7 +5,6 @@
       e tive de voltar para a minha cidade natal transferindo a faculdade, onde voltei desde o primeiro ano em outro curso, 
       mas com a possibilidade de me formar em SI logo no ano seguinte da minha formatura em ADS.
       
-         
          Procuro ser bastante acessível, se você precisa de uma amiga ou uma parceira para estudos ou desenvolvimento,
       sinta-se livre e com intimidade para conversar comigo por qualquer motivo, através do meu e-mail! ヾ(≧▽≦*)o
                                             alicefkw@outlook.com
