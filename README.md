@@ -1,17 +1,18 @@
 ## Bem-vindo(a) ao meu Github! | Welcome to my Github!
 <pre>
-  <ul>
-    <li> 🐍 pythonista </li>
-    <li> 🎓 último semestre em análise e desenvolvimento de sistemas <b>|</b> last semester in systems analysis and development </li>
-    <li> 🌱 estudando reactJS <b>|</b> studying reactJS </li>
-    <li> 🌸 ela／dela <b>|</b> she／her </li>
-  </ul>
+  • 🐍 pythonista
+  
+  • 🎓 último semestre em análise e desenvolvimento de sistemas <b>|</b> last semester in systems analysis and development
+  
+  • 🌱 estudando reactJS <b>|</b> studying reactJS
+  
+  • 🌸 ela／dela <b>|</b> she／her
 </pre>
 
 <div align="center">
   <a href="https://github.com/alicefkw"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alicefkw&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicefkw&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicefkw&layout=compact&langs_count=7&theme=gruvbox"/>
   <div style="display: inline_block"><br>
     <img align="right" alt="Icon" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/973439116274462772/1021927166579056732/picrew.png">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
