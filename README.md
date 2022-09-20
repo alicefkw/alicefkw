@@ -9,7 +9,7 @@
 <div align="center">
   <a href="https://github.com/alicefkw"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alicefkw&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicefkw&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="180em" width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicefkw&layout=compact&langs_count=7&theme=gruvbox"/>
   <div style="display: inline_block"><br>
     <img align="center" alt="Alice-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Alice-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -36,3 +36,7 @@
 
 </br>
 <b>Sinta-se à vontade para conversar comigo sobre qualquer assunto! | Feel free to DM me about any matter!</b>
+
+</br>
+
+![SnakeAnimation](https://github.com/alicefkw/alicefkw/blob/output/github-contribution-grid-snake.svg)
