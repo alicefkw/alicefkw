@@ -1,9 +1,11 @@
 ## Bem-vindo(a) ao meu Github! | Welcome to my Github!
 <pre>
-- 🐍 pythonista
-- 🎓 último semestre em análise e desenvolvimento de sistemas <b>|</b> last semester in systems analysis and development
-- 🌱 estudando reactJS <b>|</b> studying reactJS
-- 🌸 ela／dela <b>|</b> she／her
+  <ul>
+    <li> 🐍 pythonista </li>
+    <li> 🎓 último semestre em análise e desenvolvimento de sistemas <b>|</b> last semester in systems analysis and development </li>
+    <li> 🌱 estudando reactJS <b>|</b> studying reactJS </li>
+    <li> 🌸 ela／dela <b>|</b> she／her </li>
+  </ul>
 </pre>
 
 <div align="center">
